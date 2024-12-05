@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Правила дорожного движения</string>
+    <string name="checkbox_info_text">Информация</string>
+    <string name="info_text">Правила дорожного движения</string>
+    <string name="rules_text">1. Проезд на красный свет светофора запрещен\n2. Движение задним ходом на автомагистрали запрещено\n3. Движение без дневных ходовых огней в светлое время суток запрещено</string>
+    <string name="checkbox_info">Информация</string>
+</resources>
